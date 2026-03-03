@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MercuryExperience</string>
+    <string name="firebase_database_url" translatable="false">https://movieapp-1-2481d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">955771804020</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuI6vcoaDctgTeIrbzpkvZYoBimuzeYKI</string>
+    <string name="google_app_id" translatable="false">1:955771804020:android:a14184aee75877d3877421</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuI6vcoaDctgTeIrbzpkvZYoBimuzeYKI</string>
+    <string name="google_storage_bucket" translatable="false">movieapp-1-2481d.firebasestorage.app</string>
+    <string name="project_id" translatable="false">movieapp-1-2481d</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <style name="Base.Theme.MercuryExperience" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MercuryExperience" parent="Base.Theme.MercuryExperience"/>
+</resources>

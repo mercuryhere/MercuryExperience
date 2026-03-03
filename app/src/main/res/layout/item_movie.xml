@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/card_bg">
+
+    <TextView
+        android:id="@+id/tvMovieTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Movie Title"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#111827" />
+
+    <TextView
+        android:id="@+id/tvMovieCategoryYear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="Sci-Fi • 2014"
+        android:textSize="14sp"
+        android:textColor="#6B7280" />
+
+    <TextView
+        android:id="@+id/tvMovieDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Movie description"
+        android:textSize="15sp"
+        android:textColor="#374151" />
+
+    <TextView
+        android:id="@+id/tvMovieRating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Rating: 4.7"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="#0F6C7B" />
+
+</LinearLayout>

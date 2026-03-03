@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mercuryexperience.app-debug-61:/layout_item_review.xml.flat",
+        "source": "com.example.mercuryexperience.app-main-63:/layout/item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "com.example.mercuryexperience.app-debug-61:/layout_activity_favorites.xml.flat",
+        "source": "com.example.mercuryexperience.app-main-63:/layout/activity_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_item_review.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_splashbackgroung.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\splashbackgroung.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_baseline_visibility_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\baseline_visibility_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_rounded_input.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\rounded_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_splashpic.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\splashpic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_activity_movie_details.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\activity_movie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_item_movie.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_activity_favorites.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\activity_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_baseline_visibility_off_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\baseline_visibility_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_activity_add_review.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\activity_add_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\drawable_gmail.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\drawable\\gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mercuryexperience.app-debug-61:/layout_activity_splash.xml.flat",
+        "source": "com.example.mercuryexperience.app-main-63:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-debug-61:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.13\\com.example.mercuryexperience.app-main-63:\\mipmap-anydpi\\ic_launcher.xml"
+    }
+]
