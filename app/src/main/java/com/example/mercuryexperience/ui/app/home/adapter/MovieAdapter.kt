@@ -41,3 +41,4 @@ class MovieAdapter(
 
     override fun getItemCount(): Int = movies.size //ad
 }
+//text
