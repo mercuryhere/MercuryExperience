@@ -124,3 +124,4 @@ class MovieDetailActivity : AppCompatActivity() {
         button.text = if (isFavoriteMovie) "Remove from Favorites" else "Add to Favorites"
     }
 }
+//text
