@@ -116,7 +116,7 @@ class RegistrationActivity : AppCompatActivity() {
                             error.message ?: "Registration failed",
                             Toast.LENGTH_LONG
                         ).show()
-                    }
+                    } //show
                 }
             }
         }

@@ -114,7 +114,7 @@ class LoginActivity : AppCompatActivity() {
                     error.message ?: "Failed to send reset email",
                     Toast.LENGTH_LONG
                 ).show()
-            }
+            } //help
         }
     }
 }
