@@ -19,7 +19,7 @@ object FirebaseRefs {
     }
 
     val movies: DatabaseReference by lazy {
-        database.child("movies")
+        database.child("movies") //hello
     }
 
     val reviews: DatabaseReference by lazy {
