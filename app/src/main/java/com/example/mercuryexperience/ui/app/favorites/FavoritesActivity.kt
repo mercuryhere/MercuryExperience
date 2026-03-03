@@ -102,3 +102,4 @@ class FavoritesActivity : AppCompatActivity() {
         }
     }
 }
+//text
