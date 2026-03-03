@@ -29,3 +29,4 @@ class SplashActivity : AppCompatActivity() {
         }, 1500) //sp
     }
 }
+//text
