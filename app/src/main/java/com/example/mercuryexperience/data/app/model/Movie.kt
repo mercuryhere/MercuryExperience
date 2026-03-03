@@ -6,5 +6,6 @@ data class Movie(
     val category: String = "",
     val description: String = "",
     val year: String = "",
-    val ratingAverage: Double = 0.0 //movie
+    val ratingAverage: Double = 0.0
 )
+//text
